@@ -1,0 +1,21 @@
+export default {
+    primary: '#97B6BC',
+    blackDivide: 'rgba(0,0,0,0.05)',
+    blackTextSecondary: 'rgba(0,0,0,0.5)',
+    headerGrayBackground: 'rgba(52, 52, 52, 0.6)',
+    loadingBackground: 'rgba(52, 52, 52, 0.5)',
+    background: '#ffffff',
+    placeholder: 'gray',
+    text: '#333',
+    borderColor: '#9B9B9B',
+    black: '#000',
+    white: '#FFF',
+    cancelButton: 'gray',
+    facebook: '#3b5998',
+    google: '#dd4b3a',
+    background1: '#e8e8e8',
+    lightGray: '#ededed',
+    accent: "#f57913",
+    tabbartintcolor: '#999999',
+    footer: 'rgba(230, 230, 230, 0.7)'    
+};
